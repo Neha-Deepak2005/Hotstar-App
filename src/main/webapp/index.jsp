@@ -21,10 +21,10 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">TV</a></li>
-            <li class="nav-items"><a href="#">CINEMAS</a></li>
-            <li class="nav-items"><a href="#">   better</a></li>
-            <li class="nav-items"><a href="#">Premium</a></li>
+            <li class="nav-items"><a href="#">TELIVISION</a></li>
+            <li class="nav-items"><a href="#">MOVIES</a></li>
+            <li class="nav-items"><a href="#">Better</a></li>
+            <li class="nav-items"><a href="#">Premium Plan</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
